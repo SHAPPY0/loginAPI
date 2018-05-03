@@ -1,0 +1,28 @@
+{
+  "name": "loginapitestcases",
+  "version": "1.0.0",
+  "description": "Login APi with test cases",
+  "main": "index.js",
+  "scripts": {
+     "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/code-challenge/Saurabhsharma-Node.js-Developer.git"
+  },
+  "author": "saurabh sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "mocha": "^5.1.1"
+  }
+}
