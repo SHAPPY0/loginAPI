@@ -1,28 +1,12 @@
-### Task set 1
-
-1. Verify you can use git from your computer.
-
-2. Take the clone of this project. 
-
-3. Create pages for Login and Signup.
-
-4. User should be able to Sign Up using full name, username, email and password.
-
-5. User should be able to log in using (username OR email) and password.
-
-6. Commit and push code to git.
-
-7. Create a dashboard page and redirect user to dashbaord after successful login.
-
-8. create chat functionality using socket.io.
-
-9. user can chat with all loggedin users.
-
-10. Push code to gitlab.
-
-
 ### Steps To Run The Project.
-
+- Take clone of this repo.
 - Run command "npm install" after checkout.
-- Then run "node server.js"
-- Open browser and enter url "http://localhost:3000"
+- Then run "node index.js"
+- Use this url "http://localhost:3000" to check API
+- User credentials-> email : test@gmail.com and password : 1111
+
+
+### Unit Test cases
+- For unit test cases please refer testcaseReport.xlsx file in repo.
+
+
